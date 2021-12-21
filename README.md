@@ -1,6 +1,7 @@
 
 - 🔭 I’m currently working on frontend development
 - 🌱 I’m currently learning react 
+- 💌 I'm in love DevOps
 - 👯 I’m collaborating with .... shhh you shouldn't know
 - ⚡ Fun fact: I'm in love with pancakes 
 
