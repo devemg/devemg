@@ -1,8 +1,7 @@
 
 - 🔭 I’m currently working on frontend development
 - 🌱 I’m currently learning react 
-- 💌 I love DevOps
-- 👯 I’m collaborating with .... shhh you shouldn't know
+- 💌 I love development and project management
 - ⚡ Fun fact: I'm in love with pancakes 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=devemg&theme=buefy&show_icons=true)
