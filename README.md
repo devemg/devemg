@@ -1,6 +1,6 @@
 
 - 🔭 I’m currently working on frontend development
-- 🌱 I’m currently learning react and .NET
+- 🌱 I’m currently learning flutter and .NET
 - 💌 I love development and project management
 - ⚡ Fun fact: I'm in love with pancakes 
 
